@@ -1,0 +1,2 @@
+!!$C0?0.equals(@STR)#21 char=@ARI#32 String=new#String($C0?0,Integer.MAX_VALUE,@NUB)#5#32       1
+!!$C0?0.isPersistent()#21#21 &&$C0?0.isCancelled()#16#6 Logger.error(this,@HO)#16       1
